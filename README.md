@@ -26,22 +26,22 @@ Esta librería permite obtener el archivo con xml con el caf de timbraje solicit
 <br>Le segunda opción es contratar como servicio api para poder realizar el proceso de timbraje.
 <br>Esta opción tiene un pago recurrente mensual de 0,3 UF más Iva
 
-<br><b>Importante:</b>
+<br><b>NOTAS IMPORTANTES:</b>
 <br>-En ambas opciones, No tiene limite de consultas ni cantidad máximo de ruts a timbrar.
 <br>-Las limitaciones de timbraje solamente las puede realizar el sii
 <br>-En el caso de modalidad mensual se suspende el servicio con más de 30 días de retraso.
 
-<br><b>Soporte:</b>
+<br><b>SOPORTE PARA DESARROLLADORES:</b>
 <br>-Independiente de la modalidad, el precio incluye 2 horas de soporte remoto con un máximo de 8 eventos.
 <br>-Desde la compra o contratación el periodo de soporte es de 60 días, pasado ese plazo se cobrará 1 uf por hora de soporte remoto.
 <br>-Si se requiere soporte remoto adicional, el valor es 0,3 uf por cada 20 minutos, sindo este el valor mínimo de soporte.
 
-<br><b>Limites de Garantía:</b>
+<br><b>LIMITES DE GARANTIA:</b>
 <br>-La librería ha sido probada y certificada al momento por lo que si el servidor cumple los requisitos necesarios no deberia tener problemas en su funcionamiento.
 <br>-La librería es compatible con servidores Linux y Windows.
 <br>-Factronica SpA se libera de toda responsabilidad por mal uso de la aplicación adquirida
 
-<br><b>Actualización de Versiones:</b>
+<br><b>ACTUALIZACIÓN DE VERSIONES:</b>
 <br>-En la modalidad Pago Mensual recurrente, las actualizaciones son automáticas y no tienen valor adicional.
 <br>-En la modalidad Pago Único, las actualizaciónes tienen un costo adicional el cual será publicado al momento de liberar la actualización.
 
