@@ -47,4 +47,4 @@ Esta librería permite obtener el archivo con xml con el caf de timbraje solicit
 
 <br><b>INSTRUCCIONES PARA INTEGRACIÓN CON SISTEMA PROPIO:</b>
 <br>-Integración con Archivos TXT:
-<br>https://github.com/FacTronica/TimbrarFolios/blob/main/txt_caf.php
+<br>https://github.com/FacTronica/TimbrarFolios/blob/main/IntegracionTXT.md
