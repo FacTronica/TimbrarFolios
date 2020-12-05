@@ -45,3 +45,5 @@ Esta librería permite obtener el archivo con xml con el caf de timbraje solicit
 <br>-En la modalidad Pago Mensual recurrente, las actualizaciones son automáticas y no tienen valor adicional.
 <br>-En la modalidad Pago Único, las actualizaciónes tienen un costo adicional el cual será publicado al momento de liberar la actualización.
 
+<br><b>INSTRUCCIONES PARA INTEGRACIÓN CON SISTEMA PROPIO:</b>
+<br>-Integración con Archivos TXT: https://github.com/FacTronica/TimbrarFolios/blob/main/txt_caf.php
